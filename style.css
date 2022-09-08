@@ -1,0 +1,14 @@
+body {
+	background-color:  lightblue;
+	/*property:  value*/
+}
+
+.headers {
+	color: red;
+ 	text-align: center;
+}
+
+#paragraph {
+	color: navy;
+	text-align: center;
+}
